@@ -17,6 +17,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# local lead exports
+data/*.csv
+!data/.gitkeep
+
 # OS and editor files
 .DS_Store
 Thumbs.db
